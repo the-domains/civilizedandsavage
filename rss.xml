@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[CivilizedandSavage]]></title>
         <description><![CDATA[CivilizedandSavage]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/civilizedandsavage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 15:07:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 15:37:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/civilizedandsavage/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b58754c0-4336-44e2-ba69-81d8341d54b6.png">]]></description>
-            <link>undefinedeb0dc905-ffd1-4145-abf7-a15a704514e6/index.html</link>
+            <link>https://thegrid.ai/civilizedandsavage/eb0dc905-ffd1-4145-abf7-a15a704514e6/index.html</link>
             <guid isPermaLink="false">eb0dc905-ffd1-4145-abf7-a15a704514e6</guid>
-            <pubDate>Wed, 09 Mar 2016 15:06:35 GMT</pubDate>
+            <pubDate>Mon, 28 Mar 2016 15:37:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
