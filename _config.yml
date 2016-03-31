@@ -1,7 +1,7 @@
 name: CivilizedandSavage
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.7939068
+layout_spectrum: 0.51918
+typography_spectrum: 0.25616
 collections:
   - index:
       path: /
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#121214'
-    - '#8e8e8c'
-    - '#eeeef0'
-    - '#b5b6b9'
-    - '#6a6a6c'
+    - '#d0d2c4'
+    - '#032a2f'
+    - '#54b0bd'
+    - '#076f8a'
+    - '#d63932'
   brandStrength: 0.75
-  lightness: 0.8125
-  saturation: 0
+  lightness: 0.6875
+  saturation: 0.4375
   rhythmicContrast: 0.5
 purpose: []
