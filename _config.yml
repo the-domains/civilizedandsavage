@@ -14,6 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: A website for those who live on both sides of the coin
 cta:
   domain: null
   bucket: null
