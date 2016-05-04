@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[CivilizedandSavage]]></title>
-        <description><![CDATA[CivilizedandSavage]]></description>
+        <title><![CDATA[A website for those who live on both sides of the coin]]></title>
+        <description><![CDATA[A website for those who live on both sides of the coin]]></description>
         <link>https://thegrid.ai/civilizedandsavage/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 02:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2016 03:52:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/civilizedandsavage/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5b67fac0-f8b7-4d04-8b07-c763e59edf44.jpg">]]></description>
+            <link>https://thegrid.ai/civilizedandsavage/6dbc4160-a398-4bb6-8e13-e852e02209e2/index.html</link>
+            <guid isPermaLink="false">6dbc4160-a398-4bb6-8e13-e852e02209e2</guid>
+            <pubDate>Wed, 04 May 2016 03:52:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><img src="https://scontent.cdninstagram.com/hphotos-xaf1/t51.2885-15/s320x320/e35/11427423_713236315472443_513132299_n.jpg"></article>]]></description>
